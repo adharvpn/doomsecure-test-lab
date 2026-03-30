@@ -1,0 +1,10 @@
+{
+  "name": "doomsecure-test-lab",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.16.0", 
+    "lodash": "4.17.4",
+    "axios": "0.18.0",
+    "moment": "2.29.1"
+  }
+}
